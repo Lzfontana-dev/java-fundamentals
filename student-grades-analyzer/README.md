@@ -1,10 +1,21 @@
 # Student Grades Analyzer
 
-This is a simple Java project created to practice:
+Mini projeto em Java para praticar:
+- Entrada de dados
+- Processamento
+- Saída formatada
 
-- Input data with Scanner
-- Data processing
-- Output formatting
-- Math functions (max, min)
+## Funcionalidades
+- Leitura do nome do aluno
+- Leitura de três notas
+- Cálculo da média
+- Identificação da maior e menor nota
+- Cálculo da diferença entre notas
 
-This project combines basic Java fundamentals in one program.
+## Tecnologias
+- Java
+- Scanner
+- Math.max / Math.min
+
+Projeto desenvolvido para fins de estudo.
+
